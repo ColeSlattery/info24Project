@@ -8,7 +8,6 @@ https://www.espn.com/nba/stats/_/season/2024/seasontype/2 - use to pull stat lea
 https://www.basketball-reference.com/leagues/NBA_stats_per_game.html - html has a ton of stuff 
 https://www.basketball-reference.com/leagues/NBA_2024.html#all_leaders
 https://www.basketball-reference.com/leagues/NBA_2024_leaders.html
-https://www.basketball-reference.com/leagues/NBA_2024_totals.html#totals_stats::+"SPECIFIC STAT TO SEARCH WITH" for ex pts
 
 
 https://www.statmuse.com/nba/player/jayson-tatum-9582/career-stats?playerStatsBreakdown=per36Minutes - player stats and can do by game or minutes and totals

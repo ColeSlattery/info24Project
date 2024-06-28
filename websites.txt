@@ -1,6 +1,9 @@
 https://www.balldontlie.io/#introduction  - nba api - meh
 https://rapidapi.com/api-sports/api/api-nba  - nba api - looks good
 https://any-api.com/nba_com/nba_com/docs/API_Description - nba api - also good
+https://github.com/swar/nba_api/tree/master
+
+
 ^ API's
 
 https://www.espn.com/nba/stats/_/season/2024/seasontype/2 - use to pull stat leader from website if need

@@ -1,0 +1,9 @@
+ADD names to the csv file at the end after stats maybe
+
+Do the readme
+
+start organizing players seasons by years 
+
+try to fix the dumb accented names
+
+maybe go back to 60s 70s?

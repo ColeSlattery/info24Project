@@ -7,3 +7,8 @@ start organizing players seasons by years
 try to fix the dumb accented names
 
 maybe go back to 60s 70s?
+
+Add player combine stats so I can see height weight etc
+
+redo season pulling from the get_data_frames() and only use top 10 seasons if not already
+

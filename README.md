@@ -3,7 +3,7 @@
 # Main Idea
 We will compare the stats of the top 10 NBA scorers over the past ~40 years, to reveal trends about how scoring has changed and what attributes tend to lead to a high scoring season. Over the last 40 years, we tend to see the same players over and over again cracking the top 10 in scoring for the season and wwe want to know what they have in common or not in common. As time has changed, scoring in the NBA has progressed drastically as well. From the addoption of the 3 point line to the positionless and less formal basketball that we have became accostomed to today. 
 # Data Collection
-To get the list of players we wanted, we took the list of scorers from each year off nba.com, sorted by scoring, and selected the top 10.
+To get the list of players we wanted, we took the used a function to go through all the years on nba.com and get a list of scorers from each year, then sorted by scoring, and saved the top 10.
 
 To pull data, we used an nba api along with a csv file of all nba players and their nba ID and then used our list of top ten players from each year to get their season data from the year they were a leading scorer and compiled it into one big dataframe.
 # What we'll do

@@ -14,16 +14,25 @@ Due to the complexity of playoff structures, we won't be using playoff statistic
 The National Basketball Association is made up of 32 teams with 15 players each. These roster tend to change a lot during the season with trades, signings, injuries, call up's from their G league team (junior team) and a lot more. Every game is 4 quarters with 12 minutes each and players scoring averages are only effected by the games that they play. Taking this into consideration, a player could average more than another player in our data while playing less games. This data is not compiling how much they score every 82 games that they play, rather it is giving us their stats from the games that they did play in the 82 game season. We have added a minimal of 60 games played to be added to our data so that the stats couldn't have too many outliers (ex. Jermey Lin averaging 29 points per game in 2012 when he only played 12 games). Each player in our top 10 will have the points they scored throughout the whole season divided by the the games they played in to determine their scoring average for each team.
 # Visualizations
  ![pic1](https://github.com/user-attachments/assets/9010ebd3-8b44-4398-ad99-cf68ddba6ee4)
+
 We found this data to be very interesting because at first we thought there may have been some errors with our data set, but looking into season data and circumstances reveals reasons for the large dips (Lockout season and Covid season).
+
 ![pic2](https://github.com/user-attachments/assets/6abceed4-79c1-4771-b005-d1f6de562193)
+
 While team scoring and talent has went drastically in the near past, the top 10 scores seem to have pretty consistent stats throughout the past 40 years.
+
 ![pic3](https://github.com/user-attachments/assets/56dc5c70-8849-4972-ba85-452089e50268)
+
 3PT Added in 79-80 season
 3pt Attempts Steadily Increasing
 Total FG attempts relatively same
+
 ![pic4](https://github.com/user-attachments/assets/2353cc33-8ca6-48e5-b0f9-0e87a2cd17c0)
+
 When free throws go up, so do total points and vice versa.
+
 ![pic6](https://github.com/user-attachments/assets/346a1908-9d43-4028-880b-9bd155a16f9b)
+
 As seen on the last slide, players peak around age 29. This is again supported here with it being shown that players under 30 score slightly more points than those over 30.
 
 
